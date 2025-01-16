@@ -1,2 +1,2 @@
-# Projects
-Chapter 10
+# Exercises by Chapter
+
